@@ -27,7 +27,8 @@ You can test my model online! Upload your picture in an interactive web-based ap
 
 The *model* was *trained* for 20 epochs, achieving ~98.5% accuracy on the validation set.
 
-<img width="689" height="701" alt="download" src="https://github.com/user-attachments/assets/c5d22d4c-e8cc-47da-bc7e-07f4ac7a4d8d" />
+<img width="689" height="701" alt="download" src="https://github.com/user-attachments/assets/b2ccca21-066d-4de7-8992-2480d631c56e" />
+
 
 ---
 

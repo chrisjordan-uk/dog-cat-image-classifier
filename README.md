@@ -6,7 +6,7 @@ A project for my Deep Learning module, developed by a 2nd-year student. This **m
 
 You can test my model online! Upload your picture in an interactive web-based app, hosted on *Hugging Face Spaces*.
 
-*Демо: (https://huggingface.co/spaces/christianjordan/DogsAndCatClass)*
+*Demo: (https://huggingface.co/spaces/christianjordan/DogsAndCatClass)*
 
 --------
 
